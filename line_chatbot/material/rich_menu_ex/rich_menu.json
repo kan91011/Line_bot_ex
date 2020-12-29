@@ -1,0 +1,72 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "目錄",
+  "chatBarText": "~事務所~",
+  "areas": [
+    {
+      "bounds": {
+        "x": 823,
+        "y": 262,
+        "width": 917,
+        "height": 199
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://www.tipo.gov.tw/tw/lp-85-1.html"
+      }
+    },
+    {
+      "bounds": {
+        "x": 795,
+        "y": 590,
+        "width": 633,
+        "height": 208
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://twtmsearch.tipo.gov.tw/OS0/OS0201.jsp?l6=zh_TW&isReadBulletinen_US=&isReadBulletinzh_TW=true"
+      }
+    },
+    {
+      "bounds": {
+        "x": 819,
+        "y": 899,
+        "width": 629,
+        "height": 199
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://topic.tipo.gov.tw/patents-tw/lp-712-101.html"
+      }
+    },
+    {
+      "bounds": {
+        "x": 834,
+        "y": 1205,
+        "width": 600,
+        "height": 203
+      },
+      "action": {
+        "type": "uri",
+        "uri": "http://www.duandpartners.com.tw/page/about/index.aspx?kind=6&lang=TW"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1890,
+        "y": 963,
+        "width": 474,
+        "height": 494
+      },
+      "action": {
+        "type": "postback",
+        "text": "目錄",
+        "data": "menu=rich_menu_index"
+      }
+    }
+  ]
+}

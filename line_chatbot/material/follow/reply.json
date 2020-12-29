@@ -1,0 +1,68 @@
+[
+{
+  "type": "image",
+  "originalContentUrl": "https://img.sj33.cn/uploads/202005/002UV316-13.gif",
+  "previewImageUrl": "https://img.sj33.cn/uploads/202005/002UV316-13.gif"
+},
+    {
+  "type": "text",
+  "text": "歡迎加入~~French fries 事務所~~~\n\n我們有強大的律師陣容~幫助你度過難關~~\n介面簡單輕鬆又好玩~\n\n為了更有效率的方式我們也提供 公司申請 及 個人專利申請  只需透過Line 即可完成，我們也提供 案件規劃 及 律師委託。\n\n隨時都可以預約喔~~\n\n遇到危險時，也可以即時發送照片及地理位置，我們會第一時間幫你發送訊息~~\n\n"
+},
+    {
+  "type": "template",
+  "altText": "this is an image carousel template",
+  "template": {
+    "type": "image_carousel",
+    "columns": [
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/proxy/ml1eeBsD8iLfSpvfWZFm1Z9Q3PjYaBVoQqLx5XIYT1K2v1-CoDkOEYzOyQ9GAE_--ymxdLdeoPuLiXt6rsXkgc1qDrxHdwShlrcXcwRx",
+        "action": {
+          "type": "message",
+          "label": "預約",
+          "text": "成功"
+        }
+      },
+      {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqjwfrzACVYxwOz_rTC0_2JjreEg46XyB63w&usqp=CAU",
+        "action": {
+          "type": "message",
+          "label": "預約",
+          "text": "成功"
+        }
+      },
+      {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW6A_Zi0EBoZXLisj914dl-Pgb4bxjHK-dqg&usqp=CAU",
+        "action": {
+          "type": "message",
+          "label": "預約",
+          "text": "成功"
+        }
+      },
+      {
+        "imageUrl": "https://lh3.googleusercontent.com/proxy/-72RSBkGt0sk2nZbg7qSh-4XHdcOTGaMG2CQZRUc3_owB1JuFRGrY4i06buYH7zA0dP0kwqxs6993rkPy9XBbcFUhCxCzWp0Hih5bDZC_dlPYtY1QSQlzA",
+        "action": {
+          "type": "message",
+          "label": "預約",
+          "text": "成功"
+        }
+      },
+      {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxVhsF3hp9PrVjIyhbNNqGtACjIYmB_pOag&usqp=CAU",
+        "action": {
+          "type": "message",
+          "label": "預約",
+          "text": "成功"
+        }
+      },
+      {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZIxfipgVbmD_x-vr2fWahocSP1IqOhHWMag&usqp=CAU",
+        "action": {
+          "type": "message",
+          "label": "預約",
+          "text": "成功"
+        }
+      }
+    ]
+  }
+}
+]

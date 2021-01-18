@@ -1,0 +1,63 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "圖文選單 4",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 4,
+        "y": 0,
+        "width": 990,
+        "height": 921
+      },
+      "action": {
+        "type": "postback",
+        "text": "我要看SBL",
+        "data": "menu=rich_menu_sbl"
+      }
+    },
+    {
+      "bounds": {
+        "x": 994,
+        "y": 8,
+        "width": 1043,
+        "height": 905
+      },
+      "action": {
+        "type": "postback",
+        "text": "我要看NBA",
+        "data": "menu=rich_menu_nba"
+      }
+    },
+    {
+      "bounds": {
+        "x": 4,
+        "y": 921,
+        "width": 986,
+        "height": 723
+      },
+      "action": {
+        "type": "postback",
+        "text": "我要看中華職棒",
+        "data": "menu=rich_menu_cpbl"
+      }
+    },
+    {
+      "bounds": {
+        "x": 990,
+        "y": 917,
+        "width": 1051,
+        "height": 732
+      },
+      "action": {
+        "type": "postback",
+        "text": "我要看MLB",
+        "data": "menu=rich_menu_mlb"
+      }
+    }
+  ]
+}

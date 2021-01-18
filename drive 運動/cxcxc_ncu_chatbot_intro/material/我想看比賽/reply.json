@@ -1,0 +1,23 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "message",
+        "label": "動作 1",
+        "text": "動作 1"
+      },
+      {
+        "type": "message",
+        "label": "動作 2",
+        "text": "動作 2"
+      }
+    ],
+    "title": "有水",
+    "text": "影子"
+  }
+}
+]

@@ -1,0 +1,21 @@
+[
+
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "主頁",
+        "text": "切換回主頁",
+        "data": "menu=rich_menu_index"
+      }
+    ],
+    "title": "換圖文選單",
+    "text": "按下面按鍵，更換圖文選單"
+  }
+}
+
+]

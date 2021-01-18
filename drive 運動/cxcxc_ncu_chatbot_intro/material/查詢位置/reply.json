@@ -1,0 +1,25 @@
+[
+
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "uri",
+        "label": "打電話",
+        "uri": "tel://3345678"
+      },
+      {
+        "type": "uri",
+        "label": "位置查詢",
+        "uri": "https://line.me/R/nv/location/"
+      }
+    ],
+    "title": "測試打電話跟定位",
+    "text": "文字"
+  }
+}
+
+]

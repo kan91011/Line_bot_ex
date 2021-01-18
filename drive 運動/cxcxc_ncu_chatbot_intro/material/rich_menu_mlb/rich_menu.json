@@ -1,0 +1,84 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "圖文選單 3",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 4,
+        "y": 0,
+        "width": 836,
+        "height": 836
+      },
+      "action": {
+        "type": "message",
+        "text": "我想看今天MLB的賽程"
+      }
+    },
+    {
+      "bounds": {
+        "x": 841,
+        "y": 4,
+        "width": 832,
+        "height": 832
+      },
+      "action": {
+        "type": "message",
+        "text": "我想看今天MLB比分"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1664,
+        "y": 8,
+        "width": 836,
+        "height": 828
+      },
+      "action": {
+        "type": "message",
+        "text": "我要看MLB戰績排行"
+      }
+    },
+    {
+      "bounds": {
+        "x": 5,
+        "y": 828,
+        "width": 844,
+        "height": 842
+      },
+      "action": {
+        "type": "message",
+        "text": "我想看今天MLB的賽事"
+      }
+    },
+    {
+      "bounds": {
+        "x": 844,
+        "y": 836,
+        "width": 820,
+        "height": 832
+      },
+      "action": {
+        "type": "message",
+        "text": "我想要看你發功預測MLB!!"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1660,
+        "y": 832,
+        "width": 836,
+        "height": 836
+      },
+      "action": {
+        "type": "postback",
+        "text": "我要看別的聯盟",
+        "data": "menu=rich_menu_index"
+      }
+    }
+  ]
+}
